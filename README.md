@@ -1,14 +1,23 @@
 # Responsive Restaurant Website
-## [Watch it on youtube](https://youtu.be/5RIFrZEjURA)
-### Responsive Restaurant Website
 
-- Responsive Restaurant Website Design Using HTML CSS & JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Includes a dark & light theme.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+## Author:
+<h4>Oussama Horrigue</h4>
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+## Link:
+<a href="https://oussamahorrigue.github.io/Mohamad_mahmoud/index.html" target="_blank"><h3>https://oussamahorrigue.github.io/Mohamad_mahmoud/index.html</h3></a>
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/oussama-horrigue-69624b1b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/OussamaHorrig"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/oussamahorrigue/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/oussama.horrigue"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+
+</p>
+
+
+
 
 ![preview img](/preview.png)
